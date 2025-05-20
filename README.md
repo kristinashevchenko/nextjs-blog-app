@@ -1,4 +1,34 @@
+# The Blog App
+
+A **Next.js** blog page built during the [Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide) course by _Academind / Maximilian Schwarzmüller_.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Overview
+
+The **Blog App** enables users to:
+
+- Display blog posts
+- Show details on blog post
+- Send message to blog author via contact form
+
+---
+
+## 🖼️ Screenshots
+
+### **Home Page**
+
+![Home Page Screenshot](./public/home_page.png)
+
+### **Posts Page**
+
+![Posts Page Screenshot](./public/posts_page.png)
+
+### **Post Details Page**
+
+![Post Page Screenshot](./public/post_page.png)
+
+---
 
 ## Getting Started
 
